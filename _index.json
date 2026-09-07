@@ -1,7 +1,7 @@
 {
   "schema": "ai_phone_share_index",
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T22:10:30.901Z",
+  "generatedAt": "2026-09-07T05:24:51.822Z",
   "folders": [
     {
       "name": "A 重要须知（自部署版请查看）",
@@ -9,7 +9,7 @@
     },
     {
       "name": "Js插件",
-      "count": 36
+      "count": 37
     },
     {
       "name": "bug反馈专用，请先询问小坊，无法解决后再进行反馈，反馈最好有详细情境、附图，否则无法复现",
@@ -584,6 +584,22 @@
       "avatar": "",
       "ownerHash": "e6c50f6be29a84651ff5172c1149b4f53c44b6f91d9e9de5cb2f6c09528e67d0",
       "updatedAt": "2026-08-28T15:12:58+08:00"
+    },
+    {
+      "folder": "Js插件",
+      "name": "群聊绑指定用户",
+      "dirName": "群聊绑指定用户",
+      "type": "dir",
+      "path": "资源/Js插件/群聊绑指定用户",
+      "files": [
+        "资源/Js插件/群聊绑指定用户/群聊绑身份- 没开关版本.js"
+      ],
+      "images": [],
+      "description": "如题, 因为世界线太多所以找ai搓了一个\n但是个人私聊更多只喜欢围观群，用户参与群聊测试次数有限，不保证没有bug\n\n原理只是覆盖了绑定用户的群聊的头像和发消息的id",
+      "author": "G",
+      "avatar": "",
+      "ownerHash": "85b94dde3046f0bb789afce70959e309b5e83cbf12c2417685b16c4d9c3387c5",
+      "updatedAt": "2026-09-07T13:24:15+08:00"
     },
     {
       "folder": "Js插件",
