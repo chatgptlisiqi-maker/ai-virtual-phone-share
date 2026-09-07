@@ -1,7 +1,7 @@
 {
   "schema": "ai_phone_share_index",
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T05:24:51.822Z",
+  "generatedAt": "2026-09-07T08:01:59.242Z",
   "folders": [
     {
       "name": "A 重要须知（自部署版请查看）",
@@ -17,7 +17,7 @@
     },
     {
       "name": "全局主题",
-      "count": 5
+      "count": 6
     },
     {
       "name": "剧情预设及正则",
@@ -1269,6 +1269,26 @@
       "avatar": "",
       "ownerHash": "236ecc192be0d623afb290c5cc467a13575a1a2edd0456b3c04869f0825cefab",
       "updatedAt": "2026-08-29T09:19:12+08:00"
+    },
+    {
+      "folder": "全局主题",
+      "name": "桌面组件",
+      "dirName": "桌面组件",
+      "type": "dir",
+      "path": "资源/全局主题/桌面组件",
+      "files": [
+        "资源/全局主题/桌面组件/组件们.zip"
+      ],
+      "images": [
+        "资源/全局主题/桌面组件/1000091313.jpg",
+        "资源/全局主题/桌面组件/1000091314.jpg",
+        "资源/全局主题/桌面组件/1000091315.jpg"
+      ],
+      "description": "好喜欢这个float，搓了几个透明桌面组件分享\n本来是准备传几个自用主题的，但文件都太大了传不了，遗憾离场\n\n\n下载文件后，在美化里面打开组件管理，把代码复制进去就好！\n展示图里面有自搓组件！两个2×2的都会动",
+      "author": "萝卜蛋",
+      "avatar": "资源/全局主题/桌面组件/.avatar.png",
+      "ownerHash": "ccefc7840c9648740f3e15b6baabfdc9e735bd54be290703ad907ee5dbed0152",
+      "updatedAt": "2026-09-07T16:01:16+08:00"
     },
     {
       "folder": "全局主题",
